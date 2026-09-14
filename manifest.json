@@ -1,0 +1,16 @@
+{
+  "name": "K9 Calendar",
+  "short_name": "K9 Calendar",
+  "description": "K9 Calendar PWA 測試版",
+  "lang": "zh-TW",
+  "start_url": "./calendar.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#f8fafc",
+  "theme_color": "#f8fafc",
+  "icons": [
+    {"src":"icon/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"icon/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
